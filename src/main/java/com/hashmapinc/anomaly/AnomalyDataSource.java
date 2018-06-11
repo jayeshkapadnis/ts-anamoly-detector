@@ -1,4 +1,4 @@
-package com.hashmapinc.anamoly;
+package com.hashmapinc.anomaly;
 
 import com.google.common.io.Files;
 import com.google.common.io.LineProcessor;
@@ -15,7 +15,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 public class AnomalyDataSource {
 

@@ -1,4 +1,4 @@
-package com.hashmapinc.anamoly;
+package com.hashmapinc.anomaly;
 
 import org.deeplearning4j.api.storage.StatsStorage;
 import org.deeplearning4j.datasets.iterator.impl.ListDataSetIterator;
